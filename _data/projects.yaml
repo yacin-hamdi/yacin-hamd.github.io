@@ -45,10 +45,10 @@
       github: yacin-hamdi/udacity_cpp/tree/main/project-4-concurrent_traffic_simulation
       image: concurrent.png
 
-    - name: Example
+    - name: Banking System
       description: This project can be installed from pypi.
-      github: Example/Example
-      pypi: Example
+      github: yacin-hamdi/udacity_cpp/tree/main/project-5-Capstone-bank-system
+      image: banking.png
 
 - name: Java
   projects:
