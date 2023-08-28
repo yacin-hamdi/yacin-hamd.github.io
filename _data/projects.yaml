@@ -16,6 +16,11 @@
       github: Example/Example
       pypi: Example
 
+    - name: Example
+      description: This project can be installed from pypi.
+      github: Example/Example
+      pypi: Example
+
 
 - name: Machine and deep learning
   projects:
