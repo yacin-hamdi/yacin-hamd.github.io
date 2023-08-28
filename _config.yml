@@ -6,7 +6,8 @@ remote_theme: tedivm/jekyll-theme-portfolio
 title: Yacin Hamdi's Projects
 author: Contact me
 email: yacin.ha9@gmail.com
-description: > yacin hamdi, data science, robotics, AI/ML
+description: > # this means to ignore newlines until "show_exerpts:"
+yacin hamdi, data science, robotics, AI/ML
 
 avatar: https://avatars.githubusercontent.com/u/117452150?s=400&u=cadb0693ec78e1177c6a668b0b1877b4f089c7bb&v=4 
 # Header Links - all optional. If set these create header links.
