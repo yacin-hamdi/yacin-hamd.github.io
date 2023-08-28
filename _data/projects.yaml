@@ -46,7 +46,7 @@
       image: concurrent.png
 
     - name: Banking System
-      description: Banking system is a command line interface application based on mysql database, it has two interface, first the admin interface which allow admin to manage all accounts and the second is user interface which allow user to manage only his account.
+      description: Banking system is a command line interface application based on mysql database, it has two interface first the admin interface which allow admin to manage all accounts, the second is user interface which allow user to manage only his account.
       github: yacin-hamdi/udacity_cpp/tree/main/project-5-Capstone-bank-system
       image: banking.png
 
