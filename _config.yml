@@ -6,10 +6,7 @@ remote_theme: tedivm/jekyll-theme-portfolio
 title: Yacin Hamdi Projects
 author: Contact me
 email: yacin.ha9@gmail.com
-description: >
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+description: > yacin hamdi, data science, robotics, AI/ML
 
 avatar: https://avatars.githubusercontent.com/u/117452150?s=400&u=cadb0693ec78e1177c6a668b0b1877b4f089c7bb&v=4 
 # Header Links - all optional. If set these create header links.
