@@ -46,7 +46,7 @@
       image: concurrent.png
 
     - name: Banking System
-      description: This project can be installed from pypi.
+      description: Banking system is a command line interface application based on mariadb, it has two interface, first the admin interface which allow admin to manage all accounts and the second user interface which allow user to manage only his account.
       github: yacin-hamdi/udacity_cpp/tree/main/project-5-Capstone-bank-system
       image: banking.png
 
