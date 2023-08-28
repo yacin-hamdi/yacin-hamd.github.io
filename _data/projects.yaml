@@ -7,7 +7,7 @@
       image: monitor.png
 
     - name: Route Planning
-      description: This project can be installed from npm.
+      description: route planning is a GUI based on A* algorithm implemented in C++ that takes a starting point and a goal point and draw the optimal path between them on a given OpenStreetMap.
       github: yacin-hamdi/udacity_cpp/tree/main/1-CppND-Route-Planning
       image: route_planning.jpg
 
