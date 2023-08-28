@@ -1,17 +1,5 @@
 - name: Robotics
-  icon: fas fa-terminal
-  projects:
-    - name: System Monitor
-      description: System monitor is a command line interface written in c++ that resemble the program htop, which is a standard program for monitoring Linux systems.
-      github: yacin-hamdi/udacity_cpp/tree/main/project-2-system_monitoring
-      image: monitor.png
-
-    - name: Route Planning
-      description: route planning is a GUI based on A* algorithm implemented in C++ that takes a starting point and a goal point and draw the optimal path between them on a given OpenStreetMap.
-      github: yacin-hamdi/udacity_cpp/tree/main/1-CppND-Route-Planning
-      image: route_planning.jpg
-      c++: exemple
-
+  projects:  
     - name: Example
       description: This project can be installed from pypi.
       github: Example/Example
@@ -37,3 +25,50 @@
       github: Example/Example
       wordpress: Example
       icon: fab fa-wordpress
+
+- name: C++
+  projects:
+    - name: System Monitor
+      description: System monitor is a command line interface written in c++ that resemble the program htop, which is a standard program for monitoring Linux systems.
+      github: yacin-hamdi/udacity_cpp/tree/main/project-2-system_monitoring
+      image: monitor.png
+
+    - name: Route Planning
+      description: route planning is a GUI based on A* algorithm implemented in C++ that takes a starting point and a goal point and draw the optimal path between them on a given OpenStreetMap.
+      github: yacin-hamdi/udacity_cpp/tree/main/1-CppND-Route-Planning
+      image: route_planning.jpg
+      c++: exemple
+
+    - name: Example
+      description: This project can be installed from pypi.
+      github: Example/Example
+      pypi: Example
+
+    - name: Example
+      description: This project can be installed from pypi.
+      github: Example/Example
+      pypi: Example
+
+- name: Java
+  projects:
+    - name: Example
+      description: This project can be installed from pypi.
+      github: Example/Example
+      pypi: Example
+
+    - name: Example
+      description: This project can be installed from pypi.
+      github: Example/Example
+      pypi: Example
+
+- name: Android Development
+  projects:
+    - name: Example
+      description: This project can be installed from pypi.
+      github: Example/Example
+      pypi: Example
+
+    - name: Example
+      description: This project can be installed from pypi.
+      github: Example/Example
+      pypi: Example  
