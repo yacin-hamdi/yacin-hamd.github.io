@@ -1,4 +1,4 @@
-- name: CLIs
+- name: Robotics
   icon: fas fa-terminal
   projects:
     - name: Example
