@@ -1,5 +1,5 @@
 - name: Robotics
-icon: monitor.png
+  icon: fas fa-terminal
   projects:  
     - name: Example
       description: This project can be installed from pypi.
