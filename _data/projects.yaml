@@ -1,10 +1,9 @@
 - name: Robotics
   icon: fas fa-terminal
   projects:
-    - name: Example
+    - name: System Monitor
       description: The logo for this project is for Puppet, and comes from the "assets/images/projects" directory.
-      github: example/example
-      pypi: example
+      github: yacin-hamdi/udacity_cpp/tree/main/project-2-system_monitoring
       image: monitor.png
 
     - name: Example
