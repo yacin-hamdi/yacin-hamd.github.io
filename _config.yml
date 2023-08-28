@@ -21,5 +21,6 @@ linkedin_username: yacin-hamdi-53825721b
 
 plugins:
  - jekyll-feed
+ - jekyll-avatar
  - jekyll-seo-tag
  - jekyll-remote-theme # Lets us test remote themes locally.
