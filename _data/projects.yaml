@@ -18,7 +18,7 @@
       pypi: Example
 
 
-- name: Misc
+- name: Machine and deep learning
   projects:
     - name: Example
       description: This project uses Font Awesome icons and is on Dockerhub.
