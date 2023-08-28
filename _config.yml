@@ -15,7 +15,7 @@ linkedin_username: example
 
 
 # Build settings
-theme: jekyll-theme-portfolio
+#theme: jekyll-theme-portfolio
 
 plugins:
  - jekyll-feed
