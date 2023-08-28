@@ -1,22 +1,25 @@
-title: Your awesome title
-author: Your Name
-email: your-email@domain.com
-description: > # this means to ignore newlines until "show_exerpts:"
+
+# This is how Jekyll knows to use this theme.
+remote_theme: tedivm/jekyll-theme-portfolio
+
+
+title: Yacin Hamdi\'s Projects
+author: Yacin Hamdi
+email: yacin.ha9@gmail.com
+description: >
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
 
-# Header Links
-homepage: https://blog.tedivm.com
+
+# Header Links - all optional. If set these create header links.
+homepage: https://your.homepage.com
 twitter_username: example
-github_username:  example
+github_username: example
 linkedin_username: example
 
-
-
-# Build settings
-#theme: jekyll-theme-portfolio
 
 plugins:
  - jekyll-feed
  - jekyll-seo-tag
+ - jekyll-remote-theme # Lets us test remote themes locally.
