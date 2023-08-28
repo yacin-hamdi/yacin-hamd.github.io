@@ -2,7 +2,7 @@
   icon: fas fa-terminal
   projects:
     - name: System Monitor
-      description: The logo for this project is for Puppet, and comes from the "assets/images/projects" directory.
+      description: System monitor is a command line interface written in c++ that resemble the program htop, which is a standard program for monitoring Linux systems.
       github: yacin-hamdi/udacity_cpp/tree/main/project-2-system_monitoring
       image: monitor.png
 
