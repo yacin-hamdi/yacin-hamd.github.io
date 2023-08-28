@@ -5,7 +5,7 @@
       description: The logo for this project is for Puppet, and comes from the "assets/images/projects" directory.
       github: example/example
       pypi: example
-      image: puppet.png
+      image: monitor.png
 
     - name: Example
       description: This project can be installed from npm.
