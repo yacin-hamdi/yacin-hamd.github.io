@@ -1,4 +1,5 @@
 - name: Robotics
+icon: monitor.png
   projects:  
     - name: Example
       description: This project can be installed from pypi.
