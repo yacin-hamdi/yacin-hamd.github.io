@@ -6,10 +6,10 @@
       github: yacin-hamdi/udacity_cpp/tree/main/project-2-system_monitoring
       image: monitor.png
 
-    - name: Example
+    - name: Route Planning
       description: This project can be installed from npm.
-      github: Example/Example
-      npm: Example
+      github: yacin-hamdi/udacity_cpp/tree/main/1-CppND-Route-Planning
+      image: route_planning.jpg
 
     - name: Example
       description: This project can be installed from pypi.
