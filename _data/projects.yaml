@@ -1,15 +1,4 @@
-- name: Robotics
-  icon: fas fa-terminal
-  projects:  
-    - name: Example
-      description: This project can be installed from pypi.
-      github: Example/Example
-      pypi: Example
 
-    - name: Example
-      description: This project can be installed from pypi.
-      github: Example/Example
-      pypi: Example
 
 
 - name: Machine and deep learning
@@ -26,6 +15,19 @@
       github: Example/Example
       wordpress: Example
       icon: fab fa-wordpress
+
+- name: Computer Vision
+  icon: fas fa-terminal
+  projects:  
+    - name: Finding Lane Lines
+      description: This project can be installed from pypi.
+      github: yacin-hamdi/udacity_nd_self_driving_car/tree/main/project-1-LaneLines
+      image: lanelines.jpg
+
+    - name: Example
+      description: This project can be installed from pypi.
+      github: Example/Example
+      pypi: Example
 
 - name: C++
   projects:
