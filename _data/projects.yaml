@@ -20,7 +20,7 @@
   icon: fas fa-terminal
   projects:  
     - name: Finding Lane Lines
-      description: Finding lane lines is a project,  where I applied computer vision techniques to detect lane lines in images and videos using python and opencv
+      description: Finding lane lines is a project,  where I applied computer vision techniques to detect lane lines in images and videos using python and opencv.
       github: yacin-hamdi/udacity_nd_self_driving_car/tree/main/project-1-LaneLines
       image: lanelines.jpg
       pypi: project/opencv-python/
