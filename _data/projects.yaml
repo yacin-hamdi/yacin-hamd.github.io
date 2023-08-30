@@ -25,10 +25,11 @@
       image: lanelines.jpg
       pypi: project/opencv-python/
 
-    - name: Example
-      description: This project can be installed from pypi.
-      github: Example/Example
-      pypi: Example
+    - name: Advanced Lane Lines
+      description: Advanced lane lines is an improved version of finding lane lines, which includes advanced image processing to detect lanes regardless of lanes color, brightness, etc.
+      github: yacin-hamdi/udacity_nd_self_driving_car/tree/main/CarND-Advanced-Lane-Lines-master
+      image: advanced_lane.jpg
+      pypi: project/opencv-python/
 
 - name: C++
   projects:
