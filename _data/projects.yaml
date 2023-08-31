@@ -32,7 +32,7 @@
       pypi: project/opencv-python/
 
     - name: Vehicle Detection
-      description: Vehicle Detection uses support vector machine, which is a machine learning algorithm and, image processing to detect cars in image or videos stream.
+      description: Vehicle Detection uses support vector machine which is a machine learning algorithm and, image processing to detect cars in video stream.
       github: yacin-hamdi/udacity_nd_self_driving_car/tree/main/CarND-Vehicle-Detection-master
       image: vehicle_detection.jpg
       pypi: project/opencv-python/
