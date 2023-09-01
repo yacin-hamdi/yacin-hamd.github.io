@@ -16,6 +16,21 @@
       wordpress: Example
       icon: fab fa-wordpress
 
+
+- name: Robotics
+  projects:
+    - name: Extended Kalman Filter
+      description: This project uses Font Awesome icons and is on Dockerhub.
+      github: yacin-hamdi/udacity_nd_self_driving_car/tree/main/CarND-Extended-Kalman-Filter-Project
+      image: ekf.jpg
+
+    - name: Example
+      description: This Wordpress Plugin is actually just an example project.
+      platform: Wordpress
+      github: Example/Example
+      wordpress: Example
+      icon: fab fa-wordpress
+
 - name: Computer Vision
   icon: fas fa-terminal
   projects:  
