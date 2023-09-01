@@ -22,7 +22,7 @@
     - name: Extended Kalman Filter
       description: this project is implementation of EKF in c++, to estimate the position of a moving object given a noisy Lidar and, radar sensor measurement.
       github: yacin-hamdi/udacity_nd_self_driving_car/tree/main/CarND-Extended-Kalman-Filter-Project
-      image: ekf.png
+      image: ekf1.png
 
     - name: Example
       description: This Wordpress Plugin is actually just an example project.
