@@ -4,7 +4,7 @@
 - name: Machine and deep learning
   projects:
     - name: Behavioral Cloning
-      description: This project uses Font Awesome icons and is on Dockerhub.
+      description: Behavioral Cloning is project where i use Convolution neural network (CNN) to clone driving behavior. I start by driving a car on a simulator and collect data, then train the network and, finally test the model on the simulator. 
       github: yacin-hamdi/udacity_nd_self_driving_car/tree/main/CarND-Behavioral-Cloning-P3
       image: cloning.png
 
