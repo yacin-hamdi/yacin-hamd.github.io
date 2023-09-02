@@ -3,11 +3,10 @@
 
 - name: Machine and deep learning
   projects:
-    - name: Example
+    - name: Behavioral Cloning
       description: This project uses Font Awesome icons and is on Dockerhub.
-      github: Example/Example
-      dockerhub: Example/Example
-      icon: fas fa-file-medical-alt
+      github: yacin-hamdi/udacity_nd_self_driving_car/tree/main/CarND-Behavioral-Cloning-P3
+      image: cloning.png
 
     - name: Example
       description: This Wordpress Plugin is actually just an example project.
