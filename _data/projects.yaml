@@ -8,13 +8,10 @@
       github: yacin-hamdi/udacity_nd_self_driving_car/tree/main/CarND-Behavioral-Cloning-P3
       image: cloning.png
 
-    - name: Example
+    - name: Traffic Sign Classifer
       description: This Wordpress Plugin is actually just an example project.
-      platform: Wordpress
-      github: Example/Example
-      wordpress: Example
-      icon: fab fa-wordpress
-
+      github: yacin-hamdi/udacity_nd_self_driving_car/tree/main/CarND-Traffic-Sign-Classifier-Project
+      image: traffic_sign.png
 
 - name: Robotics
   projects:
