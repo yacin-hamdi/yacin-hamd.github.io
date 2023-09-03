@@ -9,7 +9,7 @@
       image: cloning.png
 
     - name: Traffic Sign Classifer
-      description: This Wordpress Plugin is actually just an example project.
+      description: In this project I used LeNet architecture to train a deep neural network model to classify images of traffic sign.
       github: yacin-hamdi/udacity_nd_self_driving_car/tree/main/CarND-Traffic-Sign-Classifier-Project
       image: traffic_sign.png
 
