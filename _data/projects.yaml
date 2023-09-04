@@ -98,7 +98,7 @@
 - name: Android Development
   projects:
     - name: Music Player App
-      description: This project can be installed from pypi.
+      description: this is the first android app i ever created, when i first started learning about android i build it with android studio, which implemented content providers and notifications.
       github: yacin-hamdi/mp3-app/tree/master
       image: music.jpg
 
