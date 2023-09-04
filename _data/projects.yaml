@@ -13,6 +13,11 @@
       github: yacin-hamdi/udacity_nd_self_driving_car/tree/main/CarND-Traffic-Sign-Classifier-Project
       image: traffic_sign.png
 
+    - name: Boston Housing
+      description: this project is a part of udacity machine learning engineer, where i use classic machine learning algorithm to train a model that classify housing price in boston.
+      github: yacin-hamdi/udacity_nd_machine_learning/tree/main/project_2_boston_housing
+      image: boston.png
+
 - name: Robotics
   projects:
     - name: Extended Kalman Filter
