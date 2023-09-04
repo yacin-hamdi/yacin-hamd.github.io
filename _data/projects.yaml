@@ -97,10 +97,10 @@
 
 - name: Android Development
   projects:
-    - name: Example
+    - name: Music Player App
       description: This project can be installed from pypi.
-      github: Example/Example
-      pypi: Example
+      github: yacin-hamdi/mp3-app/tree/master
+      image: music.jpg
 
     - name: Example
       description: This project can be installed from pypi.
