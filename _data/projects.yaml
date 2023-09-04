@@ -18,6 +18,11 @@
       github: yacin-hamdi/udacity_nd_machine_learning/tree/main/project_2_boston_housing
       image: boston.jpg
 
+    - name: Finding Donors for Charity
+      description: this is the second project of udacity machine learning engineer, I applied supervised machine learning techniques to help CharityML (a fictitious charity organization) identify people most likely to donate to their cause.
+      github: yacin-hamdi/udacity_nd_machine_learning/tree/main/project_3_finding_donors
+      image: charity.jpg
+
 - name: Robotics
   projects:
     - name: Extended Kalman Filter
