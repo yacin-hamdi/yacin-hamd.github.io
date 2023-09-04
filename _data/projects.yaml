@@ -20,12 +20,12 @@
       github: yacin-hamdi/udacity_nd_self_driving_car/tree/main/CarND-Extended-Kalman-Filter-Project
       image: ekf1.png
 
-    - name: Example
-      description: This Wordpress Plugin is actually just an example project.
+    - name: Drone Motion Planning
+      description: this project is based on A* algorithm, it consists of planning and executing a trajectory of a drone in an urban environment. The code communicates with Udacity FCND Simulator using Udacidrone API.
       platform: Wordpress
-      github: Example/Example
+      github: yacin-hamdi/FCND
       wordpress: Example
-      icon: fab fa-wordpress
+      image: collinear_drone.png
 
 - name: Computer Vision
   icon: fas fa-terminal
