@@ -102,7 +102,7 @@
       github: yacin-hamdi/mp3-app/tree/master
       image: music.jpg
 
-    - name: Example
-      description: This project can be installed from pypi.
-      github: Example/Example
-      pypi: Example  
+    - name: Remote Control
+      description: Remote Control is an android app that i created to control an electrical wheelchair based on arduin or raspberry pi, it can also be used to control a toy car through bluetooth.
+      github: yacin-hamdi/remote_control
+      image: remote.png
