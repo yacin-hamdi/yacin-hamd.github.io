@@ -103,6 +103,6 @@
       image: music.jpg
 
     - name: Remote Control
-      description: Remote Control is an android app that i created to control an electrical wheelchair based on arduin or raspberry pi, it can also be used to control a toy car through bluetooth.
+      description: Remote Control is an android app that i created to control an electrical wheelchair based on arduino or raspberry pi, it can also be used to control a rc car via bluetooth.
       github: yacin-hamdi/remote_control
       image: remote.png
