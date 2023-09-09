@@ -14,7 +14,7 @@
       image: traffic_sign.png
 
     - name: Pneumonia Detection from Chest X-ray
-      description: this is the second project of udacity machine learning engineer, I applied supervised machine learning techniques to help CharityML (a fictitious charity organization) identify people most likely to donate to their cause.
+      description: in this project i've implemented transfer learning to train a model that classify a given chest x-ray for the presence or absence of pneumonia.
       github: yacin-hamdi/deep_learning/tree/master/pneumonia_2d_imaging
       image: xray.png
 
