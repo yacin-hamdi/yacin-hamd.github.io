@@ -35,6 +35,11 @@
       github: yacin-hamdi/udacity_nd_self_driving_car/tree/main/CarND-Extended-Kalman-Filter-Project
       image: ekf1.png
 
+    - name: Uscented Kalman Filter
+      description: this project is the same as EKF but, instead of EKF i used UKF to estimate the position of a moving object.
+      github: yacin-hamdi/udacity_nd_self_driving_car/tree/main/CarND-Unscented-Kalman-Filter-Project
+      image: ekf1.png
+
     - name: Drone Motion Planning
       description: this project is based on A* algorithm, it consists of planning and executing a trajectory of a drone in an urban environment. The code communicates with Udacity FCND Simulator using Udacidrone API.
       github: yacin-hamdi/FCND
