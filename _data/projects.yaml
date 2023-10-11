@@ -40,6 +40,11 @@
       github: yacin-hamdi/udacity_nd_self_driving_car/tree/main/CarND-Unscented-Kalman-Filter-Project
       image: ekf1.png
 
+    - name: Kidnapped Vehicle Project
+      description: in this project, i have implemented particle filter in c++ for localizing a self driving car position given a noisy gps estimate of its initial location and a map.
+      github: yacin-hamdi/udacity_nd_self_driving_car/tree/main/CarND-Kidnapped-Vehicle-Project
+      image: ekf1.png
+
     - name: Drone Motion Planning
       description: this project is based on A* algorithm, it consists of planning and executing a trajectory of a drone in an urban environment. The code communicates with Udacity FCND Simulator using Udacidrone API.
       github: yacin-hamdi/FCND
