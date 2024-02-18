@@ -28,6 +28,11 @@
       github: yacin-hamdi/udacity_nd_machine_learning/tree/main/project_3_finding_donors
       image: charity.jpg
 
+    -name: Food 101 
+      description: in this project i used pretrained model EfficientNetB0 as backbone to train an image classifer on the food101 dataset, first i created a feature extration model then fine tune it.
+      github: https://github.com/yacin-hamdi/deep_learning/blob/master/tensorflow/food_vision_101.ipynb
+      image: dataset-card.png
+
 - name: Robotics
   projects:
     - name: Extended Kalman Filter
