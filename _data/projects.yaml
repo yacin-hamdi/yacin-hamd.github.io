@@ -34,7 +34,7 @@
       image: dataset-card.png
 
     - name: Skimlit
-      description: this project is a replication of "Neural Networks for Joint Sentence Classification in Medical Paper Abstrasts" paper, which i create an NLP model to classify abstract sentences into the role they play(objective, methods...)  to enable researchers to skim through the literature and dive deeper when necessary.
+      description: this project is a replication of "Neural Networks for Joint Sentence Classification in Medical Paper Abstrasts" paper, where i created an NLP model to classify abstract sentences into the role they play(objective, methods...)  to enable researchers to skim through the literature and dive deeper when necessary.
       github: https://github.com/yacin-hamdi/deep_learning/blob/master/tensorflow/skimlit.ipynb
       image: skimlit.jpg
 
