@@ -38,6 +38,11 @@
       github: https://github.com/yacin-hamdi/deep_learning/blob/master/tensorflow/skimlit.ipynb
       image: skimlit.jpg
 
+    - name: ViT
+      description: this project is a replication of "Transformers For Image Recognition At Scale" paper, where i replicate the Vision Transformer to classify different images of food.
+      github: https://github.com/yacin-hamdi/deep_learning/blob/master/tensorflow/skimlit.ipynb
+      image: vit.png
+
 - name: Robotics
   projects:
     - name: Extended Kalman Filter
