@@ -39,8 +39,8 @@
       image: skimlit.jpg
 
     - name: ViT
-      description: this project is a replication of "Transformers For Image Recognition At Scale" paper, where i replicate the Vision Transformer to classify different images of food.
-      github: https://github.com/yacin-hamdi/deep_learning/blob/master/tensorflow/skimlit.ipynb
+      description: this project is a replication of "Transformers For Image Recognition At Scale" paper, where i replicate the Vision Transformer architecture, then i used a pretrained vit to classify different images of food.
+      github: https://github.com/yacin-hamdi/deep_learning/blob/master/pytorch/vision_transformer_paper.ipynb
       image: vit.png
 
 - name: Robotics
