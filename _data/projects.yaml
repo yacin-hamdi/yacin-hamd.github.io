@@ -30,17 +30,17 @@
 
     - name: Food 101 
       description: in this project i used pretrained model EfficientNetB0 as backbone to train an image classifer on the food101 dataset, first i created a feature extration model then fine tune it.
-      github: https://github.com/yacin-hamdi/deep_learning/blob/master/tensorflow/food_vision_101.ipynb
+      github: yacin-hamdi/deep_learning/blob/master/tensorflow/food_vision_101.ipynb
       image: dataset-card.png
 
     - name: Skimlit
       description: this project is a replication of "Neural Networks for Joint Sentence Classification in Medical Paper Abstrasts" paper, where i created an NLP model to classify abstract sentences into the role they play(objective, methods...)  to enable researchers to skim through the literature and dive deeper when necessary.
-      github: https://github.com/yacin-hamdi/deep_learning/blob/master/tensorflow/skimlit.ipynb
+      github: yacin-hamdi/deep_learning/blob/master/tensorflow/skimlit.ipynb
       image: skimlit.jpg
 
     - name: ViT
       description: this project is a replication of "Transformers For Image Recognition At Scale" paper, where i replicate the Vision Transformer architecture, then i used a pretrained vit to classify different images of food.
-      github: https://github.com/yacin-hamdi/deep_learning/blob/master/pytorch/vision_transformer_paper.ipynb
+      github: yacin-hamdi/deep_learning/blob/master/pytorch/vision_transformer_paper.ipynb
       image: vit.png
 
 - name: Robotics
