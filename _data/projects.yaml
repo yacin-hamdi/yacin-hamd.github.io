@@ -130,7 +130,7 @@
       image: remote.png
 
     - name: Android EESOB
-      description: The Android EESOB application is a simple yet powerful tool designed to deploy object detection models on Android devices. It uses the YOLOv9c model, trained on the EESOB dataset, to detect and identify various electronic and embedded system components. The app is user-friendly, optimized for mobile performance, and offers real-time component recognition through your smartphone's camera, 
+      description: The Android EESOB application is a simple yet powerful tool designed to deploy object detection models on Android devices. It uses the YOLOv9c model, trained on the EESOB dataset, to detect and identify various electronic and embedded system components. The app is user-friendly, optimized for mobile performance, and offers real-time component recognition through your smartphone's camera. 
       github: yacin-hamdi/android_eesob
       image: android_eesob.jpg
 
