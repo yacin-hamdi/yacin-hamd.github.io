@@ -18,16 +18,6 @@
       github: yacin-hamdi/deep_learning/tree/master/pneumonia_2d_imaging
       image: xray.png
 
-    - name: Boston Housing
-      description: this project is a part of udacity machine learning engineer, where i use classic machine learning algorithm to train a model that classify housing price in boston.
-      github: yacin-hamdi/udacity_nd_machine_learning/tree/main/project_2_boston_housing
-      image: boston.jpg
-
-    - name: Finding Donors for Charity
-      description: this is the second project of udacity machine learning engineer, I applied supervised machine learning techniques to help CharityML (a fictitious charity organization) identify people most likely to donate to their cause.
-      github: yacin-hamdi/udacity_nd_machine_learning/tree/main/project_3_finding_donors
-      image: charity.jpg
-
     - name: Food 101 
       description: in this project i used pretrained model EfficientNetB0 as backbone to train an image classifer on the food101 dataset, first i created a feature extration model then fine tune it.
       github: yacin-hamdi/deep_learning/blob/master/tensorflow/food_vision_101.ipynb
@@ -118,17 +108,14 @@
       github: yacin-hamdi/udacity_cpp/tree/main/project-5-Capstone-bank-system
       image: banking.png
 
-- name: Java
+- name: Datasets
   projects:
-    - name: Example
-      description: This project can be installed from pypi.
-      github: Example/Example
-      pypi: Example
+    - name: EESOB-D
+      description: The EESOB dataset is a specialized collection of images designed for object detection in electronic and embedded systems. It features over 12,000 images across 48 different classes, including components like Arduinos, sensors, motors, and more. This dataset is ideal for training models to recognize and identify various electronic components.
+      github: github.com/yacin-hamdi/EESOB
+      image: banking.png
 
-    - name: Example
-      description: This project can be installed from pypi.
-      github: Example/Example
-      pypi: Example
+    
 
 - name: Android Development
   projects:
@@ -141,3 +128,9 @@
       description: Remote Control is an android app that i created to control an electrical wheelchair based on arduino or raspberry pi, it can also be used to control a rc car via bluetooth.
       github: yacin-hamdi/remote_control
       image: remote.png
+
+    - name: Remote Control
+      description: The Android EESOB application is a simple yet powerful tool designed to deploy object detection models on Android devices. It uses the YOLOv9c model, trained on the EESOB dataset, to detect and identify various electronic and embedded system components. The app is user-friendly, optimized for mobile performance, and offers real-time component recognition through your smartphone's camera, 
+      github: yacin-hamdi/android_eesob
+      image: remote.png
+
